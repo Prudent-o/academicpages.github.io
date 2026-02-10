@@ -5,27 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">
-    You can also find my articles on <a href="{{ site.author.googlescholar }}">my Google Scholar profile</a>.
-  </div>
-{% endif %}
 
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% if post.venue %}
-    <p style="margin: 0 0 0.2rem 0; font-size: 0.95em;">
-      <strong>{{ post.venue }}</strong>
-    </p>
-  {% endif %}
-
-  {% if post.excerpt %}
-    <p style="margin: 0 0 0.5rem 0; font-size: 0.95em;">
-      {{ post.excerpt }}
-    </p>
-  {% endif %}
-
-  {% include archive-single.html %}
-  <hr />
-{% endfor %}
+<ul>{% for post in site.publications reversed %}
+  {% include archive-single-cv.html %}
+{% endfor %}</ul>
+  
