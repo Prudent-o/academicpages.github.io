@@ -18,70 +18,83 @@ baseurl                  : "/zhouhuilin"
 repository               : "Prudent-o/zhouhuilin"
 
 
-
-
-# Site Author - The following control what appear as part of the author content on the side bar.
-#               If a field is blank the icon and link will not appear, otherwise it will be shown.
-#               Additional customization can be done by editing /_includes/author-profile.html
 author:
-  # Biographic information
   avatar           : "/images/profile.png"
   name             : "Huilin Zhou"
   pronouns         :
-  bio              : "Ph.D. student (USTC & TeleAI, China Telecom)."
+  bio              : "Ph.D. student (USTC & TeleAI, China Telecom). Adversarial Dynamics & Red-Teaming Lead."
   location         : "BeiJing, China"
-  employer         : "University of Science and Technology of China"
+  employer         : "University of Science and Technology of China; TeleAI (China Telecom)"
   uri              :
   email            : "zhouhuilin@mail.ustc.edu.cn"
 
-  # Academic websites
-  academia         :
-  arxiv            :
   googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=MUalzPoAAAAJ"
-  inspire-hep      :
-  impactstory      :
   orcid            : "https://orcid.org/0009-0002-8139-0911"
-  semantic         :
-  ssrn             :
-  pubmed           :
-  researchgate     :
-  scopus           :
-  zotero           :
-
-  # Repositories and software development
-  bitbucket        :
-  codepen          :
-  dribbble         :
   github           : "Prudent-o"
-  kaggle           :
-  stackoverflow    :
 
-  # Social media
-  artstation       :
-  bluesky          :
-  facebook         :
-  flickr           :
-  foursquare       :
-  goodreads        :
-  google_plus      :
-  keybase          :
-  instagram        :
-  lastfm           :
-  linkedin         :
-  mastodon         :
-  medium           :
-  pinterest        :
-  soundcloud       :
-  steam            :
-  telegram         :
-  tumblr           :
-  twitter          :
-  vine             :
-  weibo            :
-  wikipedia        :
-  xing             :
-  youtube          :
-  zhihu            :
+
+# # Site Author - The following control what appear as part of the author content on the side bar.
+# #               If a field is blank the icon and link will not appear, otherwise it will be shown.
+# #               Additional customization can be done by editing /_includes/author-profile.html
+# author:
+#   # Biographic information
+#   avatar           : "/images/profile.png"
+#   name             : "Huilin Zhou"
+#   pronouns         :
+#   bio              : "Ph.D. student (USTC & TeleAI, China Telecom)."
+#   location         : "BeiJing, China"
+#   employer         : "University of Science and Technology of China"
+#   uri              :
+#   email            : "zhouhuilin@mail.ustc.edu.cn"
+
+#   # Academic websites
+#   academia         :
+#   arxiv            :
+#   googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=MUalzPoAAAAJ"
+#   inspire-hep      :
+#   impactstory      :
+#   orcid            : "https://orcid.org/0009-0002-8139-0911"
+#   semantic         :
+#   ssrn             :
+#   pubmed           :
+#   researchgate     :
+#   scopus           :
+#   zotero           :
+
+#   # Repositories and software development
+#   bitbucket        :
+#   codepen          :
+#   dribbble         :
+#   github           : "Prudent-o"
+#   kaggle           :
+#   stackoverflow    :
+
+#   # Social media
+#   artstation       :
+#   bluesky          :
+#   facebook         :
+#   flickr           :
+#   foursquare       :
+#   goodreads        :
+#   google_plus      :
+#   keybase          :
+#   instagram        :
+#   lastfm           :
+#   linkedin         :
+#   mastodon         :
+#   medium           :
+#   pinterest        :
+#   soundcloud       :
+#   steam            :
+#   telegram         :
+#   tumblr           :
+#   twitter          :
+#   vine             :
+#   weibo            :
+#   wikipedia        :
+#   xing             :
+#   youtube          :
+#   zhihu            :
 
 
 # Publication Category - The following the list of publication categories and their headings
